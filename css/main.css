@@ -56,9 +56,19 @@ a:hover {
 
 h3 {
   color: cadetblue;
+  font-size: large;
+}
+
+h4 {
+  font-size: medium;
 }
 
 .Brither {
   color: chocolate;
+}
+
+
+img {
+  display: block;
 }
 
